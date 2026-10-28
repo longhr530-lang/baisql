@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\LoginFormApp\LoginFormApp\obj\Debug\LoginFormApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LoginFormApp\LoginFormApp\obj\Debug\LoginFormApp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LoginFormApp\LoginFormApp\obj\Debug\LoginFormApp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LoginFormApp\LoginFormApp\obj\Debug\LoginFormApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LoginFormApp\LoginFormApp\bin\Debug\LoginFormApp.exe.config
+C:\Users\ASUS\source\repos\LoginFormApp\LoginFormApp\bin\Debug\LoginFormApp.exe
+C:\Users\ASUS\source\repos\LoginFormApp\LoginFormApp\bin\Debug\LoginFormApp.pdb
+C:\Users\ASUS\source\repos\LoginFormApp\LoginFormApp\obj\Debug\LoginFormApp.exe
+C:\Users\ASUS\source\repos\LoginFormApp\LoginFormApp\obj\Debug\LoginFormApp.pdb
