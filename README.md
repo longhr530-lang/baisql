@@ -1,15 +1,15 @@
 # baisql
 ## I. THÔNG TIN SINH VIÊN
-* **Họ và tên:** Nguyễn Văn A
-* **Mã số sinh viên:** 22110001
-* **Lớp học phần:** Lập trình .NET - Mã Lớp: LTTB01
+* **Họ và tên:** Nguyễn Hải Long
+* **Mã số sinh viên:** 24810320154
+* **Lớp học phần:** Lập trình .NET - Mã Lớp: D19QTANM1
 
 * **Link Repository:** https://github.com/longhr530-lang/baisql/tree/main
 ---
 
 
 
-### Bài 5.1: Quản lý Dịch vụ Phòng Gym & Hội viên
+### Bài 5.1: 
 ![ảnh giao diện]
 <img width="941" height="463" alt="Ảnh chụp màn hình 2026-10-28 162259" src="https://github.com/user-attachments/assets/835c4d18-b38d-454d-8b7e-e7854d6ac5e8" />
 
@@ -19,7 +19,7 @@
 <img width="770" height="126" alt="Ảnh chụp màn hình 2026-10-28 162354" src="https://github.com/user-attachments/assets/a2f9ae5a-e004-402b-a524-382ae3f8484c" />
 
 
-### 5.2.: Quản lý & Xuất Báo cáo Nhà sách
+### 5.2.: 
 ![ảnh giao diện]
 <img width="1128" height="533" alt="Ảnh chụp màn hình 2026-10-28 161548" src="https://github.com/user-attachments/assets/c49eca36-e6a4-4072-a0b7-ee32197b3ecb" />
 
